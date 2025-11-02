@@ -447,6 +447,10 @@
                 <artifactId>buildnumber-maven-plugin</artifactId>
             </plugin>
             <plugin>
+                <groupId>org.glassfish.build</groupId>
+                <artifactId>spec-version-maven-plugin</artifactId>
+            </plugin>
+            <plugin>
                 <groupId>org.apache.felix</groupId>
                 <artifactId>maven-bundle-plugin</artifactId>
             </plugin>
